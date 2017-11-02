@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'kotlin'
 apply plugin: 'application'
 
-mainClassName = 'hello.HelloWorld'
+mainClassName = 'hello.HelloWorldKt'
 
 defaultTasks 'run'
 
